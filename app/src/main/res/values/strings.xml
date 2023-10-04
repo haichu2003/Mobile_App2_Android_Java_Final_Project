@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Final Project</string>
+    <string name="open_camera">Open camera</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="qr_result">QR: </string>
+    <string name="current_location">Current: </string>
+    <string name="distance">Distance: </string>
 </resources>
